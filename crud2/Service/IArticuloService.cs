@@ -11,5 +11,7 @@ namespace crud2.Service
     {
         public IQueryable<Articulo> GetAll();
         public void Add(ArticuloRequest request);
+        public void Edit(ArticuloRequest request);
+        public void Delete(int id);
     }
 }

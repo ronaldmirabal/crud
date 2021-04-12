@@ -29,6 +29,7 @@ namespace crud2
             });
 
             services.AddScoped<IArticuloService, ArticuloService>();
+            services.AddScoped<ICategoriaService, CategoriaService>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>

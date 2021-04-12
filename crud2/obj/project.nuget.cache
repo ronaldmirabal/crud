@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q9YYe8Tdl/htBML1G4sIsTj2vF1eyqu0QHrs4wiQrp9R7kn38nu0t2ZH726fwhxUDkHQVKp/OypDjTHLw+6IsQ==",
+  "dgSpecHash": "URbfpR9kVNSfTGJ1S/4qWz8DvL3/wlBEcM/JXNXFp3rVRE0PNZQh+vfFoOTycg+4awPm7wYDYYjM09ynrtEl6Q==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\crud2\\crud2\\crud2.csproj",
+  "projectFilePath": "C:\\Projects\\crud2\\crud\\crud2\\crud2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MirabalSoft\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\MirabalSoft\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.5\\microsoft.aspnetcore.jsonpatch.5.0.5.nupkg.sha512",

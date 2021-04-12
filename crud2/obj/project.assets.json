@@ -5690,11 +5690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\crud2\\crud2\\crud2.csproj",
+      "projectUniqueName": "C:\\Projects\\crud2\\crud\\crud2\\crud2.csproj",
       "projectName": "crud2",
-      "projectPath": "C:\\Projects\\crud2\\crud2\\crud2.csproj",
+      "projectPath": "C:\\Projects\\crud2\\crud\\crud2\\crud2.csproj",
       "packagesPath": "C:\\Users\\MirabalSoft\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\crud2\\crud2\\obj\\",
+      "outputPath": "C:\\Projects\\crud2\\crud\\crud2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
